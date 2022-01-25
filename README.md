@@ -11,3 +11,5 @@ Output: Graphical representation of the trend
 Libraries used:
 pytrends - Allows simple interface for automating downloading of reports from Google Trends. It is an unofficial API so it will work until Google changes their backend. 
 matplotlib - This is a comprehensive library for creating static, animated, and interactive visualisations in Python
+
+To install the libraries use: pip install <library_name> i.e. pip install pytrends.
